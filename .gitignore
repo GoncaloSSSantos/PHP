@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakePHP 3
 
 /vendor/*
@@ -23,3 +24,8 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+=======
+/exemplo.php
+/ficha2grupo3.php
+/PHP
+>>>>>>> 3aee019 (first commit)
